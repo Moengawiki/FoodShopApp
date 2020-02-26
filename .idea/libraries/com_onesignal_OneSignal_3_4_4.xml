@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.onesignal:OneSignal-3.4.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/OneSignal-3.4.4.aar/e32c0435ac39207c77bc7a3b020a3a3f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/OneSignal-3.4.4.aar/e32c0435ac39207c77bc7a3b020a3a3f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.onesignal/OneSignal/3.4.4/d6ffc5ccf929f09dfed47ca882914fb5c6c8dbcd/OneSignal-3.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

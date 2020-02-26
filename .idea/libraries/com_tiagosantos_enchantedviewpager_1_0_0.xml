@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.tiagosantos:enchantedviewpager-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/enchantedviewpager-1.0.0.aar/0b964b46f639d43e573e05355be56238/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/enchantedviewpager-1.0.0.aar/0b964b46f639d43e573e05355be56238/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tiagosantos/enchantedviewpager/1.0.0/2cd9abce40d21ca8c2b75ba8bbc36a3336a65894/enchantedviewpager-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
